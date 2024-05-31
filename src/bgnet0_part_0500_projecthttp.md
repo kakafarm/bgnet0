@@ -266,7 +266,7 @@ Code it so we could also specify an optional port number like this:
 $ python webserver.py 12399
 ```
 
-The server is going to going to run forever, handling incoming requests.
+The server is going to run forever, handling incoming requests.
 (Forever means "until you hit CTRL-C".)
 
 And it's only going to send back one thing no matter what the request
